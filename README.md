@@ -37,4 +37,5 @@ Training
 The model was trained for 5 epochs using the Adam optimiser and CrossEntropyLoss. The training loss dropped steadily from 0.4095 in epoch 1 to 0.0998 in epoch 5, demonstrating that the model was learning effectively.
 
 Application and Real-World Relevance
+
 Image classification is used in a huge range of real-world applications including medical imaging, document scanning, postal code recognition, and security systems. The techniques used here — convolutional-style networks, backpropagation, and optimisation — form the foundation of modern computer vision systems.
