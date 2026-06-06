@@ -14,7 +14,9 @@
 
 
 
-"TASK-DESCRIPTION": This task involved building and training a deep learning neural network to classify handwritten digit images. The model was trained on the MNIST dataset, which is one of the most well-known benchmark datasets in machine learning, and achieved a test accuracy of 96.87%.
+#"TASK-DESCRIPTION"
+
+This task involved building and training a deep learning neural network to classify handwritten digit images. The model was trained on the MNIST dataset, which is one of the most well-known benchmark datasets in machine learning, and achieved a test accuracy of 96.87%.
 
 Tools and Libraries Used
 
@@ -39,3 +41,7 @@ The model was trained for 5 epochs using the Adam optimiser and CrossEntropyLoss
 Application and Real-World Relevance
 
 Image classification is used in a huge range of real-world applications including medical imaging, document scanning, postal code recognition, and security systems. The techniques used here — convolutional-style networks, backpropagation, and optimisation — form the foundation of modern computer vision systems.
+
+#OUTPUT
+
+<img width="1427" height="260" alt="Image" src="https://github.com/user-attachments/assets/8e66034d-d05e-4f9b-b7fe-c82c0fc207cf" />
